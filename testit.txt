@@ -6,4 +6,5 @@ save & close to the end
 
 somemore changes
 
+insert a new line
 diff check
