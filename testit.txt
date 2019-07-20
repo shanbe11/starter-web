@@ -5,3 +5,5 @@ second time edit
 save & close to the end
 
 somemore changes
+
+diff check
